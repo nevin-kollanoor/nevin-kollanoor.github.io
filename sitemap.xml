@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/books/animal_farm/</loc>
+  </url><url>
     <loc>http://localhost:1313/books/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/books/death_throes_of_a_republic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/books/how_to_not_die_alone/</loc>
+  </url><url>
+    <loc>http://localhost:1313/books/mans_search_for_meaning/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/books/predictably_irrational/</loc>
+  </url><url>
+    <loc>http://localhost:1313/books/psychology_of_money/</loc>
+  </url><url>
+    <loc>http://localhost:1313/books/rich_dad_poor_dad/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
